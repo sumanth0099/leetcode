@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sumanth0099/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sumanth0099/leetcode/tree/master/0496-next-greater-element-i) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/sumanth0099/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumanth0099/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sumanth0099/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sumanth0099/leetcode/tree/master/0342-power-of-four) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/sumanth0099/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Recursion
 |  |
 | ------- |
