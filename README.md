@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sumanth0099/leetcode/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/sumanth0099/leetcode/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/sumanth0099/leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
 ## Dynamic Programming
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sumanth0099/leetcode/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sumanth0099/leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sumanth0099/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
