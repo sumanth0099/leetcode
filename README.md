@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sumanth0099/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/sumanth0099/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3568-find-the-key-of-the-numbers](https://github.com/sumanth0099/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
