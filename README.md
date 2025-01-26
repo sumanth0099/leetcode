@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/sumanth0099/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/sumanth0099/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0812-rotate-string](https://github.com/sumanth0099/leetcode/tree/master/0812-rotate-string) |
@@ -75,9 +76,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/sumanth0099/leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sumanth0099/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
