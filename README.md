@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sumanth0099/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sumanth0099/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sumanth0099/leetcode/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/sumanth0099/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sumanth0099/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sumanth0099/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sumanth0099/leetcode/tree/master/0189-rotate-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sumanth0099/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sumanth0099/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sumanth0099/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sumanth0099/leetcode/tree/master/0342-power-of-four) |
