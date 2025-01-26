@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sumanth0099/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sumanth0099/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sumanth0099/leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/sumanth0099/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumanth0099/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumanth0099/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sumanth0099/leetcode/tree/master/0136-single-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumanth0099/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumanth0099/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sumanth0099/leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/sumanth0099/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumanth0099/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumanth0099/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
