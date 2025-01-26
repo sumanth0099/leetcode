@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sumanth0099/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0812-rotate-string](https://github.com/sumanth0099/leetcode/tree/master/0812-rotate-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/sumanth0099/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3617-find-the-original-typed-string-i](https://github.com/sumanth0099/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
 | ------- |
