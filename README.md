@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sumanth0099/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sumanth0099/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sumanth0099/leetcode/tree/master/0496-next-greater-element-i) |
+| [0890-lemonade-change](https://github.com/sumanth0099/leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/sumanth0099/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sumanth0099/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/sumanth0099/leetcode/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/sumanth0099/leetcode/tree/master/0670-maximum-swap) |
+| [0890-lemonade-change](https://github.com/sumanth0099/leetcode/tree/master/0890-lemonade-change) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/sumanth0099/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
