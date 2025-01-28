@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sumanth0099/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sumanth0099/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sumanth0099/leetcode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sumanth0099/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumanth0099/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sumanth0099/leetcode/tree/master/0118-pascals-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumanth0099/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/sumanth0099/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sumanth0099/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumanth0099/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sumanth0099/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sumanth0099/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
