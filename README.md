@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumanth0099/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumanth0099/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sumanth0099/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/sumanth0099/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/sumanth0099/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sumanth0099/leetcode/tree/master/0075-sort-colors) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanth0099/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sumanth0099/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/sumanth0099/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sumanth0099/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sumanth0099/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sumanth0099/leetcode/tree/master/0231-power-of-two) |
@@ -233,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumanth0099/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
