@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumanth0099/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sumanth0099/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumanth0099/leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/sumanth0099/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sumanth0099/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sumanth0099/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sumanth0099/leetcode/tree/master/0189-rotate-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sumanth0099/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumanth0099/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumanth0099/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/sumanth0099/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
