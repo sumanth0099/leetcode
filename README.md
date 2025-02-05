@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sumanth0099/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0812-rotate-string](https://github.com/sumanth0099/leetcode/tree/master/0812-rotate-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/sumanth0099/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3540-hash-divided-string](https://github.com/sumanth0099/leetcode/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sumanth0099/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/sumanth0099/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumanth0099/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sumanth0099/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sumanth0099/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumanth0099/leetcode/tree/master/0169-majority-element) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
 |  |
 | ------- |
