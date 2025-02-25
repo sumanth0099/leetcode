@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/sumanth0099/leetcode/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/sumanth0099/leetcode/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/sumanth0099/leetcode/tree/master/1161-project-employees-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/sumanth0099/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sumanth0099/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1541-top-travellers](https://github.com/sumanth0099/leetcode/tree/master/1541-top-travellers) |
 ## Design
