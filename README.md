@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/sumanth0099/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/sumanth0099/leetcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/sumanth0099/leetcode/tree/master/0185-department-top-three-salaries) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/sumanth0099/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sumanth0099/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/sumanth0099/leetcode/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/sumanth0099/leetcode/tree/master/0626-exchange-seats) |
