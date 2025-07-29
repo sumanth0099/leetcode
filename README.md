@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sumanth0099/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sumanth0099/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sumanth0099/leetcode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/sumanth0099/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/sumanth0099/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sumanth0099/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumanth0099/leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/sumanth0099/leetcode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/sumanth0099/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sumanth0099/leetcode/tree/master/0496-next-greater-element-i) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/sumanth0099/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumanth0099/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumanth0099/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/sumanth0099/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sumanth0099/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sumanth0099/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sumanth0099/leetcode/tree/master/0326-power-of-three) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sumanth0099/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sumanth0099/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sumanth0099/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/sumanth0099/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sumanth0099/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumanth0099/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Heap (Priority Queue)
