@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sumanth0099/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sumanth0099/leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
+| [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1364-tuple-with-same-product](https://github.com/sumanth0099/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumanth0099/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumanth0099/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sumanth0099/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3540-hash-divided-string](https://github.com/sumanth0099/leetcode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sumanth0099/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sumanth0099/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 ## Database
 |  |
 | ------- |
