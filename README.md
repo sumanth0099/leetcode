@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumanth0099/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sumanth0099/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/sumanth0099/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/sumanth0099/leetcode/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sumanth0099/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3194-find-words-containing-character](https://github.com/sumanth0099/leetcode/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sumanth0099/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [2048-build-array-from-permutation](https://github.com/sumanth0099/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/sumanth0099/leetcode/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sumanth0099/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3540-hash-divided-string](https://github.com/sumanth0099/leetcode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sumanth0099/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
