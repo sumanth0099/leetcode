@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/sumanth0099/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sumanth0099/leetcode/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sumanth0099/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumanth0099/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3194-find-words-containing-character](https://github.com/sumanth0099/leetcode/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sumanth0099/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sumanth0099/leetcode/tree/master/3429-special-array-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sumanth0099/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sumanth0099/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumanth0099/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sumanth0099/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Backtracking
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumanth0099/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sumanth0099/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumanth0099/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sumanth0099/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/sumanth0099/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Divide and Conquer
