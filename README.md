@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/sumanth0099/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sumanth0099/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/sumanth0099/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sumanth0099/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/sumanth0099/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumanth0099/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/sumanth0099/leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumanth0099/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sumanth0099/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sumanth0099/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/sumanth0099/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/sumanth0099/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumanth0099/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sumanth0099/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sumanth0099/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sumanth0099/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/sumanth0099/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumanth0099/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumanth0099/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
