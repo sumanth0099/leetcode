@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sumanth0099/leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/sumanth0099/leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/sumanth0099/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumanth0099/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sumanth0099/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sumanth0099/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumanth0099/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sumanth0099/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/sumanth0099/leetcode/tree/master/1013-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumanth0099/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sumanth0099/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumanth0099/leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/sumanth0099/leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -394,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sumanth0099/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sumanth0099/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
