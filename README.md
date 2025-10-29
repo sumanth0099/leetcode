@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
 | [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/sumanth0099/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumanth0099/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1364-tuple-with-same-product](https://github.com/sumanth0099/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumanth0099/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sumanth0099/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sumanth0099/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/sumanth0099/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sumanth0099/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumanth0099/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
