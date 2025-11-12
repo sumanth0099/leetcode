@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/sumanth0099/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/sumanth0099/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sumanth0099/leetcode/tree/master/2058-concatenation-of-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sumanth0099/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sumanth0099/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumanth0099/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3194-find-words-containing-character](https://github.com/sumanth0099/leetcode/tree/master/3194-find-words-containing-character) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/sumanth0099/leetcode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/sumanth0099/leetcode/tree/master/0890-lemonade-change) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/sumanth0099/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sumanth0099/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sumanth0099/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sumanth0099/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumanth0099/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sumanth0099/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
