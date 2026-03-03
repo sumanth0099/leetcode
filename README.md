@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sumanth0099/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sumanth0099/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sumanth0099/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2128-reverse-prefix-of-word](https://github.com/sumanth0099/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumanth0099/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/sumanth0099/leetcode/tree/master/3194-find-words-containing-character) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/sumanth0099/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumanth0099/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sumanth0099/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sumanth0099/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2048-build-array-from-permutation](https://github.com/sumanth0099/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sumanth0099/leetcode/tree/master/2058-concatenation-of-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sumanth0099/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sumanth0099/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sumanth0099/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2048-build-array-from-permutation](https://github.com/sumanth0099/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sumanth0099/leetcode/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sumanth0099/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
