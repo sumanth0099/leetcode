@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumanth0099/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumanth0099/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sumanth0099/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sumanth0099/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1755-defuse-the-bomb](https://github.com/sumanth0099/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumanth0099/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sumanth0099/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumanth0099/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sumanth0099/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
