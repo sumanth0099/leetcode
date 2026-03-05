@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/sumanth0099/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/sumanth0099/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sumanth0099/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sumanth0099/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumanth0099/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2128-reverse-prefix-of-word](https://github.com/sumanth0099/leetcode/tree/master/2128-reverse-prefix-of-word) |
