@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sumanth0099/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sumanth0099/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sumanth0099/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sumanth0099/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumanth0099/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sumanth0099/leetcode/tree/master/0455-assign-cookies) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sumanth0099/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sumanth0099/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sumanth0099/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sumanth0099/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sumanth0099/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/sumanth0099/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sumanth0099/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sumanth0099/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sumanth0099/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sumanth0099/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/sumanth0099/leetcode/tree/master/0342-power-of-four) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/sumanth0099/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Recursion
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumanth0099/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumanth0099/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sumanth0099/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sumanth0099/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sumanth0099/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sumanth0099/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumanth0099/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
