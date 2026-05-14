@@ -1,36 +1,21 @@
-class Solution 
-{
-    public List<String> letterCombinations(String digits)
-     {
-       if (digits == null || digits.length() == 0) {
-            return new ArrayList<>();
+class Solution {
+        public static String phone[] = {
+    "","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"
+    };
+    public static ArrayList<String>solution = new ArrayList<>();
+    public static void phoneNumberComb(int p,String l,String input){
+        if(!(p<input.length()))
+        return;
+        for(int i=0;i<phone[input.charAt(p)-48].length();i++){
+            if(input.length()==(l+phone[input.charAt(p)-48].charAt(i)).length())
+            solution.add(l+phone[input.charAt(p)-48].charAt(i));
+            phoneNumberComb(p+1, l+phone[input.charAt(p)-48].charAt(i),input);
         }
-
-        // Mapping of digits to letters
-        Map<Character, String> map = new HashMap<>();
-        map.put('2', "abc");
-        map.put('3', "def");
-        map.put('4', "ghi");
-        map.put('5', "jkl");
-        map.put('6', "mno");
-        map.put('7', "pqrs");
-        map.put('8', "tuv");
-        map.put('9', "wxyz");
-
-        List<String> result = new ArrayList<>();
-        String initial = "";
-        bp(digits, initial, 0, map, result);
-        return result; // Return the result list
+        
     }
-
-    private static void bp(String source, String initial, int size, Map<Character, String> map, List<String> result) {
-        if (initial.length() == source.length()) {
-            result.add(initial); // Add the current combination to the result
-            return;
-        }
-        String present = map.get(source.charAt(size));
-        for (int i = 0; i < present.length(); i++) {
-            bp(source, initial + present.charAt(i), size + 1, map, result); // Append the letter and continue
-        }
+    public List<String> letterCombinations(String digits) {
+        solution.clear();
+        phoneNumberComb(0, "", digits);
+        return solution;
     }
 }
