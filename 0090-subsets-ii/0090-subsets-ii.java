@@ -1,21 +1,22 @@
 import java.util.*;
 class Solution {
-    public static HashMap<ArrayList<Integer>,Boolean>table = new HashMap<>();
-    public static void PrintSubSub(int nums[],ArrayList<Integer>list,int start){
-        table.put(new ArrayList<>(list),true);
+        public static List<List<Integer>>solution = new ArrayList<>();
+    public static void PrintSubSet(int nums[],ArrayList<Integer>l,int start){
+         solution.add(new ArrayList<>(l));
         for(int i=start;i<nums.length;i++)
         {
-
-            list.add(nums[i]);
-            PrintSubSub(nums, list, i+1);
-            list.remove(list.size()-1);
+            if(i>start && nums[i]==nums[i-1])
+            continue;
+            l.add(nums[i]);
+            PrintSubSet(nums, l, i+1);
+            l.remove(l.size()-1);
         }
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        table.clear();
+        solution.clear();
         Arrays.sort(nums);
         ArrayList<Integer>l = new ArrayList<>();
-        PrintSubSub(nums, l, 0);
-        return new ArrayList<>(table.keySet());
+        PrintSubSet(nums, l, 0);
+        return solution;  
     }
 }
