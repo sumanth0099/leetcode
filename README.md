@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sumanth0099/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sumanth0099/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumanth0099/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/sumanth0099/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/sumanth0099/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sumanth0099/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sumanth0099/leetcode/tree/master/0268-missing-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sumanth0099/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sumanth0099/leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/sumanth0099/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/sumanth0099/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
