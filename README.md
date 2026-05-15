@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sumanth0099/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/sumanth0099/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/sumanth0099/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/sumanth0099/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sumanth0099/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/sumanth0099/leetcode/tree/master/0179-largest-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sumanth0099/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sumanth0099/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/sumanth0099/leetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sumanth0099/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sumanth0099/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/sumanth0099/leetcode/tree/master/0118-pascals-triangle) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sumanth0099/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sumanth0099/leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/sumanth0099/leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/sumanth0099/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sumanth0099/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sumanth0099/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sumanth0099/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sumanth0099/leetcode/tree/main/0079-word-search/) | Medium |
 | [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumanth0099/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sumanth0099/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -465,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumanth0099/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/sumanth0099/leetcode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
