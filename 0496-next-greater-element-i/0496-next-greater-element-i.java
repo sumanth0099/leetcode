@@ -1,20 +1,25 @@
 class Solution {
-    public int find(int nums[],int t)
-    {
-          boolean ans=false;
-        for(int i=0;i<nums.length;i++)
-        {
-          if(nums[i]==t)
-            ans=true;
-          if(ans && nums[i]>t)
-          return nums[i];
-        }
-        return -1;
-    }
+    Stack<Integer>stack = new Stack<>();
+    HashMap<Integer,Integer>table = new HashMap<>();
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int arr[] = new int[nums1.length];
+        for(int i=nums2.length-1;i>=0;i--)
+        {
+            while(!stack.isEmpty())
+            {
+                int val = stack.peek();
+                if(val>nums2[i])
+                {
+                    table.put(nums2[i],val);
+                    break;
+                }
+                stack.pop();
+            }
+            if(stack.isEmpty())
+            table.put(nums2[i],-1);
+            stack.push(nums2[i]);
+        }
         for(int i=0;i<nums1.length;i++)
-        arr[i]=find(nums2,nums1[i]);
-        return arr;
+        nums1[i]=table.get(nums1[i]);
+        return nums1;
     }
 }
