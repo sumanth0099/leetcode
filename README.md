@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumanth0099/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumanth0099/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sumanth0099/leetcode/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumanth0099/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sumanth0099/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumanth0099/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sumanth0099/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sumanth0099/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumanth0099/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/sumanth0099/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sumanth0099/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumanth0099/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sumanth0099/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sumanth0099/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumanth0099/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumanth0099/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sumanth0099/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sumanth0099/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumanth0099/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sumanth0099/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumanth0099/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumanth0099/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumanth0099/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -501,4 +506,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumanth0099/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumanth0099/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sumanth0099/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumanth0099/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
