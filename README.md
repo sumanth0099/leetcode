@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumanth0099/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2128-reverse-prefix-of-word](https://github.com/sumanth0099/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sumanth0099/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sumanth0099/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/sumanth0099/leetcode/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/sumanth0099/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3540-hash-divided-string](https://github.com/sumanth0099/leetcode/tree/master/3540-hash-divided-string) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sumanth0099/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sumanth0099/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumanth0099/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sumanth0099/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/sumanth0099/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sumanth0099/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Backtracking
