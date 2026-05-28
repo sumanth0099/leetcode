@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sumanth0099/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/sumanth0099/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/sumanth0099/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/sumanth0099/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/sumanth0099/leetcode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sumanth0099/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sumanth0099/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3925-concatenate-array-with-reverse](https://github.com/sumanth0099/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
