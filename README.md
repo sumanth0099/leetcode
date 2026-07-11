@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sumanth0099/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sumanth0099/leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sumanth0099/leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/sumanth0099/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumanth0099/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sumanth0099/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sumanth0099/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumanth0099/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sumanth0099/leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/sumanth0099/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sumanth0099/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sumanth0099/leetcode/tree/master/0169-majority-element) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sumanth0099/leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/sumanth0099/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumanth0099/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
