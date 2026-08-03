@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumanth0099/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/sumanth0099/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sumanth0099/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sumanth0099/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/sumanth0099/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sumanth0099/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sumanth0099/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sumanth0099/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sumanth0099/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sumanth0099/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sumanth0099/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sumanth0099/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sumanth0099/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumanth0099/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sumanth0099/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sumanth0099/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sumanth0099/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sumanth0099/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumanth0099/leetcode/tree/master/0088-merge-sorted-array) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumanth0099/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/sumanth0099/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sumanth0099/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sumanth0099/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sumanth0099/leetcode/tree/master/0202-happy-number) |
