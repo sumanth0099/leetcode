@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/sumanth0099/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/sumanth0099/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumanth0099/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/sumanth0099/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1364-tuple-with-same-product](https://github.com/sumanth0099/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sumanth0099/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumanth0099/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sumanth0099/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sumanth0099/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sumanth0099/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/sumanth0099/leetcode/tree/master/1095-find-in-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sumanth0099/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
@@ -521,4 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumanth0099/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sumanth0099/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumanth0099/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/sumanth0099/leetcode/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/sumanth0099/leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
