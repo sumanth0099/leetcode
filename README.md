@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sumanth0099/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sumanth0099/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sumanth0099/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sumanth0099/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sumanth0099/leetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sumanth0099/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sumanth0099/leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumanth0099/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sumanth0099/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sumanth0099/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/sumanth0099/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sumanth0099/leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/sumanth0099/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sumanth0099/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sumanth0099/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/sumanth0099/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sumanth0099/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/sumanth0099/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumanth0099/leetcode/tree/master/0137-single-number-ii) |
