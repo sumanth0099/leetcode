@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sumanth0099/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/sumanth0099/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/sumanth0099/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0556-next-greater-element-iii](https://github.com/sumanth0099/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0812-rotate-string](https://github.com/sumanth0099/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sumanth0099/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/sumanth0099/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sumanth0099/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sumanth0099/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sumanth0099/leetcode/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/sumanth0099/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/sumanth0099/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/sumanth0099/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sumanth0099/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumanth0099/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sumanth0099/leetcode/tree/master/0367-valid-perfect-square) |
+| [0556-next-greater-element-iii](https://github.com/sumanth0099/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0670-maximum-swap](https://github.com/sumanth0099/leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/sumanth0099/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/sumanth0099/leetcode/tree/master/1013-fibonacci-number) |
